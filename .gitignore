@@ -1,0 +1,4 @@
+
+*.pyc
+
+server-ir/lirc.conf
