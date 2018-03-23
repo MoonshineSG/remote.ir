@@ -1,11 +1,14 @@
 ### Helper for teaching universal remotes custom codes.
 
+Normally, a remote controle is used to create a lirc configuratiomn file by using `irrecord`. The project provides the tools for doing the reverse. Create a config file manually, then, teach the codes to a universal remote control. 
+
+
 ### 1. Hardware
 
 - Nodemcu
 - BC337 Transistor
-- 1KΩ Resistor
-- 47Ω Resistor
+- 1KΩ Resistor
+- 47Ω Resistor
 - IR LED 940nm
 
 ![schematics](hardware.png)
